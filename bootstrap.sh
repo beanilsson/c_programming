@@ -1,1 +1,1 @@
-sudo apt-get install build-essential
+sudo apt-get install -y build-essential
